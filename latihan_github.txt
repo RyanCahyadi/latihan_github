@@ -1,5 +1,3 @@
 Hello ini adalah note pertama saya di github
 Hello, halaman ini saya edit
 hello satu
-hello dua
-hello tiga
